@@ -61,4 +61,8 @@
 * Shoes: [Altra Lone Peak 5](https://amzn.to/3UHkHAO)
 * Backpack: [Zpacks Arc Zip](https://zpacks.com/products/arc-zip-backpack)
 * Tent: [Zpacks Duplex](https://zpacks.com/products/duplex-tent)
+* Trekking poles: [Tri-Fold Carbon Cork](https://amzn.to/3GkUQuu)
 * Water filter: [Katadyn BeFree](https://amzn.to/3UJwoXS)
+* Waterproof socks: [Generic](https://amzn.to/3EeFKnx)
+* Pot: [TOAKS Titanium](https://amzn.to/3Ai9nmJ)
+* Stove: [BRS](https://amzn.to/3g3qthq)
