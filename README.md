@@ -34,6 +34,10 @@
 * Keyboard: [Corne-ish Zen R3](https://lowprokb.ca/products/corne-ish-zen)
 * Mouse: [Logitech MX Anywhere 3](https://amzn.to/3UFocrF)
 
+### Bags
+* Backpack: [Peak Design Everyday V2](https://amzn.to/3O9UKaI)
+* Sling bag: [Tomtoc compact EDC](https://amzn.to/3AeO2KH)
+
 ### Misc
 
 * Console: [Steam Deck](https://store.steampowered.com/steamdeck)
