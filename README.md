@@ -2,7 +2,6 @@
 
 ## Tech
 
-
 ### Smartphone
 
 * Smartphone: [Samsung Z Fold 4](https://amzn.to/3X9G9QD)
@@ -21,8 +20,7 @@
 ### Networking
 
 * NAS: [Synology 5-bay DiskStation DS1522+](https://amzn.to/3g9huuV)
-* Access point: [Ubiquiti UniFi 6 Long-Range Access Point](https://amzn.to/3twNlsz)
-* Poe: [Ubiquiti Networks POE-48-24W-G 48V PoE adapter](https://amzn.to/3EK5Tw5)
+* Access point: [Ubiquiti UniFi 6 Long-Range Access Point](https://amzn.to/3twNlsz) + [Ubiquiti Networks POE-48-24W-G 48V PoE adapter](https://amzn.to/3EK5Tw5)
 
 ### Camera
 
@@ -46,3 +44,9 @@
 * Pants: [Outlier Slim Dungarees](https://outlier.nyc/collections/pants/products/slim-dungarees)
 * T-Shirt: [Bylt drop-cut](https://byltbasics.com/products/drop-cut-shirt)
 * Shoes: [Feelgrounds Original Mesh](https://www.feelgrounds.com/products/original-mesh-all-black)
+
+## Coffee
+
+* Grinder: [1Zpresso J Max](https://amzn.to/3VhBsCT)
+* Press: [AeroPress](https://amzn.to/3VhBsCT)
+* Scale: [Weightman Espresso scale](https://amzn.to/3VhBsCT)
