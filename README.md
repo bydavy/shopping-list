@@ -10,8 +10,8 @@
 
 ### Desk
 
-* Monitor: [LG C2 42" 4K](https://amzn.to/3AkGaaR)
 * Laptop: [Macbook Pro 14" 2021](https://amzn.to/3g9KrHa)
+* Monitor: [LG C2 42" 4K](https://amzn.to/3AkGaaR)
 * Keyboard: [Ergodox EZ](https://ergodox-ez.com/)
 * Mouse: [Model O Wireless mouse](https://amzn.to/3UBUfZs)
 * Dock: [Caldigit TS4](https://amzn.to/3Ocmnjr)
