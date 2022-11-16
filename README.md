@@ -35,6 +35,7 @@
 * Mouse: [Logitech MX Anywhere 3](https://amzn.to/3UFocrF)
 
 ### Bags
+
 * Backpack: [Peak Design Everyday V2](https://amzn.to/3O9UKaI)
 * Sling bag: [Tomtoc compact EDC](https://amzn.to/3AeO2KH)
 
@@ -67,5 +68,5 @@
 * Stove: [BRS](https://amzn.to/3g3qthq)
 * Beanie: [MERIWOOL](https://amzn.to/3EC8NTx)
 * Neckwear: [Generic](https://amzn.to/3ULqOUT)
-* Socks: [Darn Tough no show](https://amzn.to/3O6ZRbT)
+* Socks: [Darn Tough No show tab](https://amzn.to/3O6ZRbT)
 * Waterproof socks: [Generic](https://amzn.to/3EeFKnx)
