@@ -50,3 +50,10 @@
 * Grinder: [1Zpresso J Max](https://amzn.to/3VhBsCT)
 * Press: [AeroPress](https://amzn.to/3VhBsCT)
 * Scale: [Weightman Espresso scale](https://amzn.to/3VhBsCT)
+
+## Backpacking
+
+* Shoes: [Altra Lone Peak 5](https://amzn.to/3UHkHAO)
+* Backpack: [Zpacks Arc Zip](https://zpacks.com/products/arc-zip-backpack)
+* Tent: [Zpacks Duplex](https://zpacks.com/products/duplex-tent)
+* Water filter: [Katadyn BeFree](https://amzn.to/3UJwoXS)
