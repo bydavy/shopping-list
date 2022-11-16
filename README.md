@@ -39,17 +39,17 @@
 * Console: [Steam Deck](https://store.steampowered.com/steamdeck)
 * Retro console: [Miyoo mini V3](https://miyoo.aliexpress.com/store/1101949807)
 
-## Clothing
-
-* Pants: [Outlier Slim Dungarees](https://outlier.nyc/collections/pants/products/slim-dungarees)
-* T-Shirt: [Bylt drop-cut](https://byltbasics.com/products/drop-cut-shirt)
-* Shoes: [Feelgrounds Original Mesh](https://www.feelgrounds.com/products/original-mesh-all-black)
-
 ## Coffee
 
 * Grinder: [1Zpresso J Max](https://amzn.to/3VhBsCT)
 * Press: [AeroPress](https://amzn.to/3VhBsCT)
 * Scale: [Weightman Espresso scale](https://amzn.to/3VhBsCT)
+
+## Clothing
+
+* Pants: [Outlier Slim Dungarees](https://outlier.nyc/collections/pants/products/slim-dungarees)
+* T-Shirt: [Bylt drop-cut](https://byltbasics.com/products/drop-cut-shirt)
+* Shoes: [Feelgrounds Original Mesh](https://www.feelgrounds.com/products/original-mesh-all-black)
 
 ## Backpacking
 
