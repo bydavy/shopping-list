@@ -5,7 +5,7 @@
 ### Smartphone
 
 * Smartphone: [Samsung Z Fold 4](https://amzn.to/3X9G9QD)
-* Watch: [Samsung Galazy Watch 5 pro](https://amzn.to/3g4k85j)
+* Smartwatch: [Samsung Galazy Watch 5 pro](https://amzn.to/3g4k85j)
 
 ### Desk
 
@@ -54,6 +54,7 @@
 * Pants: [Outlier Slim Dungarees](https://outlier.nyc/collections/pants/products/slim-dungarees)
 * T-Shirt: [Bylt drop-cut](https://byltbasics.com/products/drop-cut-shirt)
 * Shoes: [Feelgrounds Original Mesh](https://www.feelgrounds.com/products/original-mesh-all-black)
+* Watch: [Simple Watch Kent](https://simplewatch.co/collections/mens-collection/products/tan-silver-kent-38)
 
 ## Backpacking
 
