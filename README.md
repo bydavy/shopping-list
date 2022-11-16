@@ -36,6 +36,11 @@
 * Keyboard: [Corne-ish Zen R3](https://lowprokb.ca/products/corne-ish-zen)
 * Mouse: [Logitech MX Anywhere 3](https://amzn.to/3UFocrF)
 
+### Misc
+
+* Console: [Steam Deck](https://store.steampowered.com/steamdeck)
+* Retro console: [Miyoo mini V3](https://miyoo.aliexpress.com/store/1101949807)
+
 ## Clothing
 
 * Pants: [Outlier Slim Dungarees](https://outlier.nyc/collections/pants/products/slim-dungarees)
